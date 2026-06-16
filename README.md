@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Medha 👋
 
-<!--
-**medhaveeraiyan-rgb/medhaveeraiyan-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Student at SASTRA University
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Learning Software Development and AI
+* 🤖 Interested in Artificial Intelligence and LLM Applications
+* 🌱 Currently learning Python, Data Structures & Algorithms, Git, and GitHub
+* 🚀 Building projects for internships and real-world experience
+
+## Featured Project
+
+### AI Code Reviewer
+
+* Built with Streamlit, Groq, and LLaMA
+* Reviews source code using AI
+* Supports downloadable review reports
+* Dockerized for deployment
+
+## Tech Stack
+
+* Python
+* Streamlit
+* Git & GitHub
+* Docker
+* Groq API
+
+## Current Goals
+
+* Solve LeetCode problems consistently
+* Build AI and full-stack projects
+* Contribute to open source
+
+## Connect With Me
+
+* LinkedIn: Add your LinkedIn link
+* Email: Add your email
