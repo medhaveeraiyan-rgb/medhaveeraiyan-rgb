@@ -34,5 +34,5 @@
 
 ## Connect With Me
 
-* LinkedIn: Add your LinkedIn link
-* Email: Add your email
+* LinkedIn: https://www.linkedin.com/in/medha-veeraiyan-475070375/
+* Email: medhaveeraiyan@gmail.com
