@@ -4,35 +4,30 @@
 
 ## About Me
 
-* 💻 Learning Software Development and AI
-* 🤖 Interested in Artificial Intelligence and LLM Applications
-* 🌱 Currently learning Python, Data Structures & Algorithms, Git, and GitHub
-* 🚀 Building projects for internships and real-world experience
+* 💡 Curious about technology and how it can solve real-world problems
+* 💻 Interested in software development, programming, and emerging technologies
+* 🌱 Currently expanding my knowledge in Java, Python, Git, and software engineering
+* 🚀 Enjoy building projects, exploring new ideas, and continuously learning
+* 🤝 Open to collaboration, learning opportunities, and innovative projects
 
-## Featured Project
+## Interests
 
-### AI Code Reviewer
+* Software Development
+* Artificial Intelligence
+* Generative AI
+* Web Technologies
+* Open Source
+* Problem Solving
 
-* Built with Streamlit, Groq, and LLaMA
-* Reviews source code using AI
-* Supports downloadable review reports
-* Dockerized for deployment
+## Current Focus
 
-## Tech Stack
-
-* Python
-* Streamlit
-* Git & GitHub
-* Docker
-* Groq API
-
-## Current Goals
-
-* Solve LeetCode problems consistently
-* Build AI and full-stack projects
-* Contribute to open source
+* Building practical and meaningful projects
+* Strengthening programming and development skills
+* Exploring modern technologies and tools
+* Growing as a computer science student and developer
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/medha-veeraiyan-475070375/
-* Email: medhaveeraiyan@gmail.com
+📧 Email: [medhaveeraiyan@gmail.com](mailto:medhaveeraiyan@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/medha-veeraiyan-475070375](http://www.linkedin.com/in/medha-veeraiyan-475070375)
