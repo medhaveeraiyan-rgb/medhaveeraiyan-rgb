@@ -30,4 +30,4 @@
 
 📧 Email: [medhaveeraiyan@gmail.com](mailto:medhaveeraiyan@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/medha-veeraiyan-475070375](http://www.linkedin.com/in/medha-veeraiyan-475070375)
+💼 LinkedIn: [www.linkedin.com/in/medha-veeraiyan-475070375](https://www.linkedin.com/in/medha-v-475070375/)
