@@ -10,7 +10,7 @@
 
 ## 📍 Current Chapter
 
-I'm **Medha Veeraiyan**, a 3rd-year B.Tech CSE student at **SASTRA Deemed to be University**, expected to graduate in **2028**. Right now I'm in the "figuring things out" phase of my developer journey — strengthening fundamentals, practicing consistently, and slowly discovering what kind of engineer I want to become. No shortcuts, no rushing — just steady progress, one commit at a time.
+I'm **Medha V**, a 3rd-year B.Tech CSE student at **SASTRA Deemed to be University**, expected to graduate in **2028**. Right now I'm in the "figuring things out" phase of my developer journey — strengthening fundamentals, practicing consistently, and slowly discovering what kind of engineer I want to become. No shortcuts, no rushing — just steady progress, one commit at a time.
 
 <br/>
 
