@@ -1,106 +1,69 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Medha+%F0%9F%91%8B;3rd-Year+CSE+Student;Learning+%7C+Building+%7C+Debugging;Not+Finished+Yet+%E2%80%94+And+That's+the+Point" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=medhaveeraiyan-rgb&style=flat-square&color=6C63FF&label=Profile+Views)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header" width="100%"/>
-
-## 📍 Current Chapter
-
-I'm **Medha V**, a 3rd-year B.Tech CSE student at **SASTRA Deemed to be University**, expected to graduate in **2028**. Right now I'm in the "figuring things out" phase of my developer journey — strengthening fundamentals, practicing consistently, and slowly discovering what kind of engineer I want to become. No shortcuts, no rushing — just steady progress, one commit at a time.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=1000&color=7C9CFF&background=00000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Medha+%F0%9F%91%8B;3rd-Year+CSE+Student;Building+real%2C+working+things;Still+early+%E2%80%94+still+showing+up" alt="Typing SVG" />
 
 <br/>
 
-## 👩‍💻 About Me
+<a href="https://github.com/medhaveeraiyan-rgb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/medha-veeraiyan-475070375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Medha_V/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:medhaveeraiyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=medhaveeraiyan-rgb&style=flat-square&color=7C9CFF&label=Profile+Views)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 📍 Current Chapter
+
+3rd-year B.Tech CSE student at **SASTRA Deemed to be University**, Class of **2028**. I'm past the "just following tutorials" stage and into building small, real things end-to-end — even if the portfolio is still short. Everything below is either something I've actually shipped, actually solved, or am actively practicing. Nothing here is aspirational.
+
+<br/>
+
+## 👩‍💻 About
 
 <table>
-<tr>
-<td>🎓 <b>Degree</b></td>
-<td>B.Tech Computer Science & Engineering</td>
-</tr>
-<tr>
-<td>🏫 <b>University</b></td>
-<td>SASTRA Deemed to be University</td>
-</tr>
-<tr>
-<td>📅 <b>Year</b></td>
-<td>3rd Year (Class of 2028)</td>
-</tr>
-<tr>
-<td>📫 <b>Email</b></td>
-<td><a href="mailto:medhaveeraiyan@gmail.com">medhaveeraiyan@gmail.com</a></td>
-</tr>
-<tr>
-<td>💼 <b>LinkedIn</b></td>
-<td><a href="https://www.linkedin.com/in/medha-veeraiyan-475070375">medha-veeraiyan</a></td>
-</tr>
-<tr>
-<td>🧩 <b>LeetCode</b></td>
-<td><a href="https://leetcode.com/u/Medha_V/">Medha_V</a></td>
-</tr>
+<tr><td>🎓 <b>Degree</b></td><td>B.Tech Computer Science & Engineering</td></tr>
+<tr><td>🏫 <b>University</b></td><td>SASTRA Deemed to be University</td></tr>
+<tr><td>📅 <b>Year</b></td><td>3rd Year (Class of 2028)</td></tr>
+<tr><td>📫 <b>Email</b></td><td><a href="mailto:medhaveeraiyan@gmail.com">medhaveeraiyan@gmail.com</a></td></tr>
+<tr><td>💼 <b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/medha-veeraiyan-475070375">medha-veeraiyan</a></td></tr>
+<tr><td>🧩 <b>LeetCode</b></td><td><a href="https://leetcode.com/u/Medha_V/">Medha_V</a></td></tr>
 </table>
 
 <br/>
 
-## 🧠 My Interests
+## 🛠️ What I've Actually Built With
 
-<div align="left">
+> Verified directly from my repository's source code — not a generated list.
 
-`Software Development` `Artificial Intelligence` `Generative AI` `Web Technologies`
-`Data Structures & Algorithms` `SQL & DBMS` `Open Source` `Hackathons` `Problem Solving`
+<img src="https://skillicons.dev/icons?i=python" height="42"/> &nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=lightning&logoColor=white" height="30"/>
+<img src="https://skillicons.dev/icons?i=git,github" height="42"/>
 
-</div>
-
-<br/>
-
-## 🛠️ Technologies I Use / Learn
-
-> I'm at different stages with each of these — some I use often, some I'm actively picking up. None of this is "mastered," it's all in progress.
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
-
-**Web**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs" />
-
-**Backend / Database**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres" />
-`SQLAlchemy` `Alembic`
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-`Streamlit`
+`Python` · `Streamlit` · `Groq API (LLaMA 3.3)` · `Git & GitHub`
 
 <br/>
 
-## 🌱 Currently Growing
+## 🌱 Currently Learning
 
-Skills and habits I'm actively building right now:
+> Self-reported — not yet reflected in a public repository, so kept clearly separate from the verified stack above.
 
-- 🧮 Data Structures & Algorithms — sharpening problem-solving on LeetCode
-- ☕ Java & 🐍 Python — deepening core language fundamentals
-- 🗄️ SQL & DBMS — understanding how data actually moves and lives
-- 🧱 Software engineering fundamentals — writing cleaner, more structured code
-- 🤖 AI & Generative AI — exploring how these systems work under the hood
-- 🌿 Git & GitHub — getting more comfortable with real-world workflows
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,react,vite,tailwind,nodejs,fastapi,postgres,docker,vscode" />
+
+`Java` `C` `C++` `JavaScript` `HTML/CSS` `React` `Vite` `Tailwind CSS` `Node.js` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `VS Code`
 
 <br/>
 
 ## 🧠 Things I'm Curious About
 
-Concepts and technologies I'm exploring outside the syllabus, just to understand them better:
-
-- How generative AI models are actually trained and fine-tuned
-- Backend architecture with FastAPI, PostgreSQL & SQLAlchemy
-- Prompt design and how it shapes AI output
-- The gap between "it works" and "it's well engineered"
+- How LLM-based tools (like the one I built) can be made more accurate and less generic
+- Backend architecture with FastAPI + PostgreSQL
+- What separates "code that runs" from "code that's actually well engineered"
 
 <br/>
 
@@ -108,19 +71,40 @@ Concepts and technologies I'm exploring outside the syllabus, just to understand
 
 ```
 while (learning) {
-    tryToBuild();
-    breakSomething();
-    googleTheError();
-    understandWhy();
-    getSlightlyBetter();
+    buildSomethingReal();
+    hitAnError();
+    debugPatiently();
+    shipItAnyway();
 }
 ```
 
 <br/>
 
-## 🧩 LeetCode Progress
+## 🚀 Project
 
-I'm using LeetCode to build consistency in problem-solving — not to chase a number, just to keep showing up.
+A small but real, end-to-end tool — not a tutorial clone.
+
+<table>
+<tr>
+<td width="70%">
+
+### 🔍 AI Code Reviewer
+An LLM-powered code review tool built with Streamlit. You paste code into an in-browser editor, and it's sent to Groq's `llama-3.3-70b-versatile` model with a structured review prompt covering bugs, security issues, performance, and style — returned as clear, sectioned feedback.
+
+**Stack:** Python · Streamlit · `streamlit-ace` editor · Groq API
+
+</td>
+<td width="30%" align="center">
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medhaveeraiyan-rgb/ai-code-reviewer)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧩 LeetCode
 
 <div align="center">
 
@@ -128,7 +112,9 @@ I'm using LeetCode to build consistency in problem-solving — not to chase a nu
 
 </div>
 
-<p align="center"><i>Live stats pulled directly from LeetCode — nothing here is manually entered.</i></p>
+<p align="center"><sub>🟢 <b>Live</b> — pulled directly from LeetCode's own data each time this page loads. If it looks stale for a few hours, that's LeetCode's public data source lagging, not a fabricated number.</sub></p>
+
+Languages practiced (per my LeetCode profile): **Python3** and **MySQL**.
 
 <br/>
 
@@ -136,29 +122,27 @@ I'm using LeetCode to build consistency in problem-solving — not to chase a nu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=medhaveeraiyan-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Medha's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=medhaveeraiyan-rgb&theme=tokyonight&hide_border=true" alt="Medha's GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhaveeraiyan-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=medhaveeraiyan-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=medhaveeraiyan-rgb&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
+
+<p align="center"><sub>🟡 <b>Cached, refreshes periodically</b> — shows public activity only. My public footprint is still small, so these numbers are genuinely low right now — that's accurate, not a bug.</sub></p>
 
 <br/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/medhaveeraiyan-rgb/medhaveeraiyan-rgb/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/medhaveeraiyan-rgb/medhaveeraiyan-rgb/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-<sub>Generated automatically every day from real contribution data — see setup instructions below.</sub>
+<p align="center"><sub>🟢 <b>Live, regenerated daily</b> by a GitHub Action in this repo — see setup below.</sub></p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=3&section=footer" width="100%"/>
 
 <div align="center">
-<sub>Still learning. Still building. Still figuring it out — and that's exactly where I want to be. 🌱</sub>
+<sub>Small footprint, real work. Building it up one honest commit at a time.</sub>
 </div>
